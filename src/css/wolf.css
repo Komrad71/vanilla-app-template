@@ -1,0 +1,7 @@
+.wolf-list img{
+  width: 200px;
+}
+.wolf-list {
+  display: flex;
+  gap: 50px;
+}
